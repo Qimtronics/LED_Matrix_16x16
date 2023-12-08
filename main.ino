@@ -215,7 +215,7 @@
 #define INDEX_GF_ARR                  1
 #define LPF_CONSTANTA                 (float) 0.1
 #define LPF_OUTPUT_GF                 (float) 0.05
-#define SCALE_FOR_ACCEL               16384 //menyesuaikan set free scale sensor accel (FS:2 => 16384)
+#define SCALE_FOR_ACCEL               16384 //customizable according to accel data when it idle and free no vibration found (FS:2 => 16384)
 
 #if(EXCHANGE_DATA_ON_INT_NOT_STR == 1)
   #define data_pairing_length         13    
