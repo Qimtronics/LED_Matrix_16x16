@@ -68,7 +68,8 @@
 #define DEBUG_AT_STARTUP
 //#define DEBUG_AT_RECEIVE_DATA
 //#define DEBUG_AT_GIF    
-   
+//TEST_2 
+//TEST_3
 
 /*
  * definisi untuk tujuan debugging
