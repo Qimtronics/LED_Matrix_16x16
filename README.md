@@ -1,4 +1,4 @@
- Ciqa2_LED_Matrix_16x16
+# Ciqa2_LED_Matrix_16x16
 
 This firmware is intended for showing and animating some animations on an array of LEDS matrix 16x16 pixels size only.
 Animation lists that are supported by the firmware are as follows:
