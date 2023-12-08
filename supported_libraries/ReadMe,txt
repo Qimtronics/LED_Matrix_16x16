@@ -3,13 +3,21 @@ List of bunch of library usage by the firmware
 need to be downloaded manually, any version outside defined version below is not tested yet:
 a. Adafruit_NeoPixel
 b. Adafruit-GFX-Library-master
-c. AnimatedGIF
+c. AnimatedGIF V1.4.6
+https://github.com/bitbank2/AnimatedGIF
+
 d. ESP32TimerInterrupt
-e. FastLED-master
-f. FastLED_NeoMatrix-master
+
+e. FastLED-master V.3.3
+https://github.com/FastLED/FastLED
+
 g. Framebuffer-GFX-master
-h. Marzogh-SPIMemory
+
+h. Marzogh-SPIMemory V.3.4.0
+https://github.com/Marzogh/SPIMemory
+
 i. MPU6500
-j. I2CDev
 k. NimBLE-Arduino
+https://github.com/h2zero/NimBLE-Arduino
+
 l. Tone32-master
