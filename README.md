@@ -16,7 +16,6 @@ Animation lists that are supported by the firmware are as follows:
 1. [Documentation](#Documentation)
 1. [Ciqa2 Mobile Aplication](#Ciqa2-Mobile-Aplication)
 1. [Our Product](#Our-Product)<br />
-<br />
 
 ### Documentation
 You can use the [WS2813B datasheet](https://pdf1.alldatasheet.com/datasheet-pdf/view/1179113/WORLDSEMI/WS2812B.html) to get information about this project.<br />
