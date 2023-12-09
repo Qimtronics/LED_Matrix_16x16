@@ -8,20 +8,25 @@ Animation lists that are supported by the firmware are as follows:
 1. Playing games
 1. And other cool stuff.<br />
 
-### Need help or have a question? Visit our [FORUM](https://forums.qimtronics.com/)! <br />
-
+### Need help or have a question? Do not hesitate to join our [FORUM](https://forums.qimtronics.com/)! <br />
+<br/>
+<br/>
 ---
 
+<!-- TABLE OF CONTENTS -->
 ## CONTENTS
 1. [Documentation](#Documentation)
 1. [Ciqa2 Mobile Aplication](#Ciqa2-Mobile-Aplication)
 1. [Our Product](#Our-Product)<br />
 
 ### Documentation
+---
 You can use the [WS2813B datasheet](https://pdf1.alldatasheet.com/datasheet-pdf/view/1179113/WORLDSEMI/WS2812B.html) to get information about this project.<br />
 
-Ciqa2 LED Matrix 16x16 Addressing <br />
-![LED_MATRIX_16x26.png](main/LED_MATRIX_16x26.png)<br />
+Ciqa2 LED Matrix 16x16 Addressing is shown as image below:<br />
+<div align="center">
+    <img src="images/LED_MATRIX_16x16.png" alt="Logo" width="1920" height="1080">
+</div>
 
 Here is the [schematic](https://drive.google.com/file/d/1m279E8wOWc8PcI0v-pQheTiHusPB2jlS/view) for the Ciqa2 16x16 LED matrix! <br />
 <br />
