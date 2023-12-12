@@ -52,7 +52,7 @@ Click Here to download! [Android](https://play.google.com/store/apps/details?id=
 ---
 Visit our marketplace to discover our products<br />
 1. [Tindie](https://www.tindie.com/products/qimtronics_store/ciqa2-led-matrix-16x16/)
-1. [Tokopedia (ID) ](## To get more information about our product visit out  [WEBSITE CIQA2](https://ciqa2.qimtronics.com)<br />)
+1. [Tokopedia (ID) ](https://tokopedia.link/Jvz6Cv6WsFb)
 <br /><br />
 
 ### How to use our products, Click here to access the [USER MANUAL](https://www.canva.com/design/DAF0w8oZMv4/d7FIzouiP_uyXmzsBHn12Q/view?utm_content=DAF0w8oZMv4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
