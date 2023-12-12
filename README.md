@@ -21,7 +21,7 @@ Animation lists that are supported by the firmware are as follows:
 1. Playing games
 1. And other cool stuff.<br />
 
-### To get more information about our product visit out  [WEBSITE CIQA2](https://ciqa2.qimtronics.com)<br />
+### To get more information about our product visit out  [Website CIQA2](https://ciqa2.qimtronics.com)<br />
 ### Need help or have a question? Do not hesitate to join our [FORUM](https://forums.qimtronics.com/)! <br />
 <br/>
 <br/>
@@ -55,7 +55,7 @@ Visit our marketplace to discover our products<br />
 1. [Tokopedia (ID) ](https://tokopedia.link/Jvz6Cv6WsFb)
 <br /><br />
 
-### How to use our products, Click here to access the [USER MANUAL](https://www.canva.com/design/DAF0w8oZMv4/d7FIzouiP_uyXmzsBHn12Q/view?utm_content=DAF0w8oZMv4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+### How to use our products, Click here to access the [User Manual](https://www.canva.com/design/DAF0w8oZMv4/d7FIzouiP_uyXmzsBHn12Q/view?utm_content=DAF0w8oZMv4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <br />
 
