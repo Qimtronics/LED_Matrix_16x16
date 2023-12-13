@@ -35,7 +35,7 @@ Animation lists that are supported by the firmware are as follows:
 
 ### Documentation
 ---
-You can use the [WS2813B datasheet](https://pdf1.alldatasheet.com/datasheet-pdf/view/1179113/WORLDSEMI/WS2812B.html) to get information about this project.<br />
+You can use the [WS2812B datasheet](https://pdf1.alldatasheet.com/datasheet-pdf/view/1179113/WORLDSEMI/WS2812B.html) to get information about this project.<br />
 
 Ciqa2 LED Matrix 16x16 Addressing is shown in the image below:
 ![led matrix addressing][led-matrix-address]
