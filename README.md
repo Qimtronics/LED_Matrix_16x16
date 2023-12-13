@@ -55,7 +55,7 @@ Visit our marketplace to discover our products<br />
 1. [Tokopedia (ID) ](https://tokopedia.link/Jvz6Cv6WsFb)
 <br /><br />
 
-### How to use our products, Click here to access the [User Manual](https://www.canva.com/design/DAF0w8oZMv4/d7FIzouiP_uyXmzsBHn12Q/view?utm_content=DAF0w8oZMv4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+### How to use our products, Click here to access the [User Manual](https://drive.google.com/file/d/11nKDi4QjUs692KCsPhskwYU6TmYVwS1D/view?usp=sharing)
 
 <br />
 
